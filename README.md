@@ -6,7 +6,7 @@ A collection of tips, tools and guides for the aspiring web3 security researcher
 ## What is a security review/smart contract audit?
   - 3 phases of a security review
       - Initial Review 
-          - 0. Scoping
+          - 0. Scoping/Onboarding
           - 1. Reconnaissance
           - 2. Vulnerability identification 
           - 3. Reporting 
