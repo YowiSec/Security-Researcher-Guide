@@ -7,7 +7,9 @@ A collection of tips, tools and guides for the aspiring web3 security researcher
   - 3 phases of a security review
       - Initial Review 
           - 0. Scoping/Onboarding
+              - Rekt Test
           - 1. Reconnaissance
+              - Solidity Metrics by Consensys OR cloc
           - 2. Vulnerability identification 
           - 3. Reporting 
       - Protocol fixes
